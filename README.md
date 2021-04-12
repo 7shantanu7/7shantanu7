@@ -11,9 +11,9 @@ I'm most comfortable in that weird, funky world between design and developmentâ€
 - âš¡ Fun fact: I'm a distro hopper
 - ðŸ“« How to reach me: shantanuzadbuke37@gmail.com
 
-<p>
+<!--<p>
  <img align="right" src="https://github.com/7shantanu7/7shantanu7/blob/main/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="programmergif">
-</p>
+</p>-->
                                                                                                                                    
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=7shantanu7&theme=tokyonight_duo)
  ### Languages and Tools:
@@ -31,7 +31,7 @@ I'm most comfortable in that weird, funky world between design and developmentâ€
   <img src="https://github.com/7shantanu7/7shantanu7/blob/main/assets/icons8-linux-96.png" width="40">
 </p>
 
-![shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=7shantanu7&count_private=true&hide=contribs,prs)
+<!--![shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=7shantanu7&count_private=true&hide=contribs,prs)-->
 
 ### Find me on:
   <p id="contact" align="center"> 
