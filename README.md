@@ -14,8 +14,9 @@ I'm most comfortable in that weird, funky world between design and developmentâ€
 <!--<p>
  <img align="right" src="https://github.com/7shantanu7/7shantanu7/blob/main/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="programmergif">
 </p>-->
-                                                                                                                                   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=7shantanu7&theme=tokyonight_duo)
+ <p id="streak" align="center">                                                                                                                           
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=7shantanu7&theme=tokyonight_duo">
+<p>
  ### Languages and Tools:
  
  <p align="center">
