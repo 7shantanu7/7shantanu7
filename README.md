@@ -17,6 +17,7 @@ I'm most comfortable in that weird, funky world between design and developmentâ€
  <p id="streak" align="center">                                                                                                                           
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=7shantanu7&theme=tokyonight_duo">
 <p>
+ 
  ### Languages and Tools:
  
  <p align="center">
