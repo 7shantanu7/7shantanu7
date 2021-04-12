@@ -1,4 +1,4 @@
-<h3 align="center">Hey <img src="https://github.com/7shantanu7/7shantanu7/blob/main/assets/hi.gif" width="40px"/> I'm Shantanu, a Cybersecurity enthusiast.</h3>
+<h3 align="center">Hey <img src="https://github.com/7shantanu7/7shantanu7/blob/main/assets/hi.gif" width="40px"/> I'm Shantanu.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7shantanu7&label=Profile%20views&color=0e75b6&style=flat" alt="7shantanu7" /> </p>
 
 
