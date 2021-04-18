@@ -7,16 +7,15 @@ I'm most comfortable in that weird, funky world between design and development�
 - 🌱 I’m currently learning Web Development and ML
 - 👯 I’m looking to collaborate on Web dev
 - 🤔 I’m looking for help with ML
-- 💬 Ask me about Cybersecurity and Linux
 - ⚡ Fun fact: I'm a distro hopper
 - 📫 How to reach me: shantanuzadbuke37@gmail.com
 
 <!--<p>
  <img align="right" src="https://github.com/7shantanu7/7shantanu7/blob/main/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="programmergif">
 </p>-->
- <p id="streak" align="center">                                                                                                                           
+ <!--<p id="streak" align="center">                                                                                                                           
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=7shantanu7&theme=tokyonight_duo">
-<p>
+<p>-->
  
  ### Languages and Tools:
  
@@ -46,9 +45,6 @@ I'm most comfortable in that weird, funky world between design and development�
   <a href = "https://www.hackerrank.com/shantanuzadbuke1" target="_blank">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&color=071A2C" alt="Reddit"/>
   </a> 
-  <a href = "https://www.reddit.com/user/_7shantanu7_" target="_blank">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white&color=071A2C" alt="Reddit"/>
-  </a>
   <a href="https://twitter.com/Shantanu7_7" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
   </a> 
