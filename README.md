@@ -39,7 +39,7 @@ I'm most comfortable in that weird, funky world between design and developmentâ€
   <a href = "https://www.linkedin.com/in/shantanu-zadbuke-0a194b188/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="Linkdein"/>
   </a>
-  <a href = "shantanuzadbuke37@gmail.com" target="_blank">
+  <a href = "mailto:shantanuzadbuke37@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=071A2C" alt="Gmail"/>
   </a>
   <a href = "https://www.hackerrank.com/shantanuzadbuke1" target="_blank">
